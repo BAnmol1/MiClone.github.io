@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MiClone.github.io/static/css/main.eb1f10e9.css",
+    "main.js": "/MiClone.github.io/static/js/main.9b64ef2b.js",
+    "index.html": "/MiClone.github.io/index.html",
+    "main.eb1f10e9.css.map": "/MiClone.github.io/static/css/main.eb1f10e9.css.map",
+    "main.9b64ef2b.js.map": "/MiClone.github.io/static/js/main.9b64ef2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb1f10e9.css",
+    "static/js/main.9b64ef2b.js"
+  ]
+}
